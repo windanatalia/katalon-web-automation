@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing API Basic Get and POST</description>
+   <name>TC_API_Basic</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a0554ef-2b0f-4d46-8512-f80fd2d305ce</testCaseGuid>
+</TestCaseEntity>
